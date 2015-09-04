@@ -4,12 +4,12 @@ A sumary of **F**ree and **O**pen-**S**ource **S**oftware | Operatingsystems lik
 Hello everybody out there using minix - 
 I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
 for 386(486) AT clones. This has been brewing since april, and is starting to get ready... 
-"LINUS TORWALD" 
+"LINUS TORVALDS" 
 ``` 
 
 |Year|Happening|
 |:------|----------------------------------------------------------------------------------------------------------|
-|**1991** | **Linus Torwald** publishes his first Linux Kernel |  
+|**1991** | **Linus Torvalds** publishes his first Linux Kernel |  
 |**1993** | **Ian Murdok** creates the first Linux distribution base **Debian**   
 || **Patrick Volkerding** starts **Slakware**, also known as a distribution base |  
 |**1994** | Release of Kernel 1.0 |  
