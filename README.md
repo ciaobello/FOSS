@@ -48,7 +48,7 @@ for 386(486) AT clones. This has been brewing since april, and is starting to ge
 |**2011**| **Linux 3.0 is released**, though the changes from the 2.6 line are mostly incremental |
 |**2012**| The **Wayland project begins** |
 ||**Red Hat** becomes the **first billion-dollar Linux company** |
-|**2013**| The first release of Firefox OS, based on the Linux kernel, is made available |
-|**2014**| Linux is now in everything, including cars, heralding the creation of Automotive Grade Linux |
-|**2015**| Linux 4.0 is released, and the year of Linux on the desktop finally arrives|
+|**2013**| The first release of **Firefox OS**, based on the Linux kernel, is made available |
+|**2014**| Linux is now in everything, including cars, heralding the creation of **Automotive Grade Linux** |
+|**2015**| **Linux 4.0 is released**, and the year of Linux on the desktop finally arrives|
 |**Source:** |http://opensource.com/life/15/8/happy-24th-birthday-linux-kernel | 
